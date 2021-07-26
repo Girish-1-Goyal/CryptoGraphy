@@ -1,0 +1,13 @@
+1:
+2:onetimepad(pip install onetimepad)
+3:pyperclip(pip install pyperclip)
+4:tkinter(messagebox,filedialog,ttk,scroll,progressbar)
+5:os
+6:plyer(pip install plyer)
+7:threading(pip install threading)
+8:time(pip install time)
+9:cxFreeze(pip install cxFreeze)
+10:sys
+11:cv2(pip install open-cv python)
+
+All the modules should be installed on the system machine 
